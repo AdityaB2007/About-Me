@@ -9,9 +9,9 @@
 
 <!-- About Me -->
 <p align="center">
-    I am an amateur computer programmer and have been programming for about a year, but also take interest in physics and mathematics. I like to create small games and calculators on the side.
+    Hello! I love computers and programming. I found an interest in computer science during middle school, starting with robotics and the world of Microsoft. I started programming seriously in 10th grade, and currently working with Python, but will very soon start looking into other languages. I am about to enter my 11th grade year in high school, so I plan to focus on building some projects that incorporate Python + artificial intelligence. I currently hold two industry-based certifications: CompTIA IT Fundamentals (ITF+) and CIW Network Technology Associate. Asides from CS, I also enjoy physics and mathematics. Thank you for getting to know me and happy coding!
 </p>
-<br />
+<br/>
 
 <!-- GitHub Stats -->
 <div align="center">
